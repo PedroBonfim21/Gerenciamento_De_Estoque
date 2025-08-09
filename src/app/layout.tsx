@@ -4,7 +4,7 @@ import { Toaster } from "@/components/ui/toaster";
 
 export const metadata: Metadata = {
   title: 'AlmoxFlow',
-  description: 'Sistema de Almoxarifado da Prefeitura',
+  description: 'Sistema de Almoxarifado',
 };
 
 export default function RootLayout({
